@@ -7,10 +7,15 @@
 body {
   font-family: 'comic-sans';
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("");
-  background: lightblue;
+  background: #62B6CB;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
+}
+
+.logo {
+  height: auto;
+  width: 8%;
 }
 
 h1,
@@ -76,7 +81,7 @@ p {
 }
 
 #mainNav {
-  background-color: #013542;
+  background-color: #BEE9E8;
   font-family: 'Raleway';
 }
 
@@ -146,7 +151,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: #1B4965;
 }
 
 .cta .cta-inner {
@@ -226,7 +231,7 @@ p {
 }
 
 .footer {
-  background-color: #014F5C;
+  background-color: #CAE9FF;
 }
 
 .text-primary {
