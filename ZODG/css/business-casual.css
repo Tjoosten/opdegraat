@@ -193,7 +193,7 @@ p {
   .product-item .product-item-title {
     position: relative;
     z-index: 1;
-    margin-bottom: -3rem;
+    margin-bottom: -2rem;
   }
   .product-item .product-item-img {
     position: relative;
@@ -264,4 +264,9 @@ p {
 
 .font-weight-light {
   font-weight: 100 !important;
+}
+
+#titleStyling {
+ font-family: 'ZCOOL XiaoWei', serif;
+
 }
