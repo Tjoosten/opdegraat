@@ -267,6 +267,16 @@ p {
 }
 
 #titleStyling {
- font-family: 'ZCOOL XiaoWei', serif;
+ font-family: 'nunito';
+}
 
+#contactText {
+  font-family: 'nunito';
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+
+}
+
+.form-control {
+  margin-bottom: 7px;
 }
