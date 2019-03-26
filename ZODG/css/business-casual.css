@@ -3,6 +3,8 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
  */
+ @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
 
 body {
   font-family: 'Nunito', sans-serif;
@@ -279,4 +281,8 @@ p {
 
 .form-control {
   margin-bottom: 7px;
+}
+
+.boldText {
+  font-weight: 700;
 }
