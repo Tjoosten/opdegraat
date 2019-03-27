@@ -103,11 +103,13 @@
                 </li>
               </ul>
               <p class="address mb-5">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10035.811196464525!2d3.7586899!3d51.0354925!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x55f41e0509b67c08!2sZuiver+op+de+graat!5e0!3m2!1snl!2sbe!4v1553700078955" class="google-iframe" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
                 <em>
                   <strong>Henri Pirennelaan 2A</strong>
                   <br>
                   9050, Gentbrugge
                 </em>
+                
               </p>
               <p class="mb-0">
                 <small>
@@ -158,7 +160,8 @@
 
   <!-- Script to highlight the active date in the hours list -->
   <script>
-    $('.list-hours li').eq(new Date().getDay() - 1).addClass('today');
+    $('.list-hours li').eq(new Date().getDay() - 1).addClass('today')
+    if(new Date().getDay() - 1 ===0){$(".section-heading-lower").text("Vandaag zijn we gesloten")};
   </script>
 
 </html>
