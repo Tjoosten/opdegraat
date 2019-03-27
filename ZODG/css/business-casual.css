@@ -290,3 +290,8 @@ p {
 .google-iframe {
   padding-bottom: 25px;
 }
+
+.fab {
+  color: #00091a;
+  font-size: 32px;
+}
