@@ -74,7 +74,7 @@ p {
 
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 2.2rem;
+  font-size: 2.0rem;
   font-weight: 100;
 }
 
@@ -299,6 +299,6 @@ p {
 .feather {
   color: #00091a;
   font-size: 50px;
-  padding-bottom: 1000px;
+  
 }
 
