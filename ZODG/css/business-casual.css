@@ -287,6 +287,10 @@ p {
   font-weight: 700;
 }
 
+.italicText {
+  font-style: italic;
+}
+
 .google-iframe {
   padding-bottom: 25px;
 }
@@ -299,6 +303,18 @@ p {
 .feather {
   color: #00091a;
   font-size: 50px;
-  
 }
 
+.fa {
+  color: black;
+  size: 20px;
+  padding-bottom: 20px;
+}
+
+.fa-facebook {
+ margin-right: 13px;
+}
+
+.fa-instagram {
+
+}
